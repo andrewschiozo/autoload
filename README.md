@@ -29,12 +29,14 @@ PHP ^5.6
 
 ### Instalação
 Basta copiar o arquivo Autoload.php e colar na raíz do seu projeto.
+```
 /meuprojeto/
-/meuprojeto/src/
-/meuprojeto/src/MinhaClasse.php
-/meuprojeto/views/
-**/meuprojeto/Autoload.php**
-/meuprojeto/index.php/
-
+  src/
+    MinhaClasse.php
+  views/
+    ...
+  Autoload.php
+  index.php/
+```
 ### Agradecimentos
 Obrigado =)
