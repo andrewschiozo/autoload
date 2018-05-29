@@ -36,7 +36,7 @@ Basta copiar o arquivo Autoload.php e colar na raíz do seu projeto.
   views/
     ...
   Autoload.php
-  index.php/
+  index.php
 ```
 ### Agradecimentos
 Obrigado =)
